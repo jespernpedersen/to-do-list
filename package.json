@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jespernpedersen/to-do-list#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   }
 }
